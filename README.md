@@ -20,6 +20,9 @@
 | Project | Description |
 | --- | --- |
 | **[BSS-AI 🤖](https://github.com/BSS-AI/BSS-AI)** | AI-powered macro for Bee Swarm Simulator — real-time YOLO object detection & automation |
+| **[FocusGuard 🛡️](https://github.com/iNotrez/FocusGuard)** | Silent focus timer that blocks distracting sites system-wide |
+| **[StatsDash 📊](https://github.com/iNotrez/StatsDash)** | Live system stats web dashboard built with Flask |
+
 
 ---
 
