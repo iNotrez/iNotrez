@@ -47,10 +47,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iNotrez&theme=dark&hide_border=true&background=0d0d0d&ring=BB7CFF&fire=BB7CFF&currStreakLabel=BB7CFF)](https://git.io/streak-stats)
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=iNotrez&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=BB7CFF&icon_color=BB7CFF&text_color=f0f0f5"/>
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNotrez&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=BB7CFF&text_color=f0f0f5&langs_count=5"/>
-
 </div>
 
 ---
