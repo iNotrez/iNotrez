@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### Animated Skill Icons
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash,html,java,git,github,vscode&theme=dark)](https://skillicons.dev)
 
