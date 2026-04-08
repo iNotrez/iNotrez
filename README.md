@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=BB7CFF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Developer;YOLO+%7C+Object+Detection+%7C+Automation;Amateur+Boxer+%E2%80%94+1+-+0;Building+BSS-AI+%40+BSS-AI+org;Python+%7C+AutoHotkey+%7C+Bash)](https://github.com/iNotrez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=BB7CFF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Developer;YOLO+%7C+Object+Detection+%7C+Automation;Amateur+Boxer+|+1+-+0;Building+BSS-AI+%40+BSS-AI+org;Python+%7C+AutoHotkey+%7C+Bash)](https://github.com/iNotrez)
 
 <br/>
 
