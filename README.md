@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,50:2d1b4e,100:1a1a1a&height=200&section=header&text=iNotrez&fontSize=80&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20%2F%20Computer%20Vision%20%7C%20Amateur%20Boxer&descSize=16&descAlignY=56&descColor=aaaaaa" width="100%"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=BB7CFF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Developer;YOLO+%7C+Object+Detection+%7C+Automation;Amateur+Boxer+|+1+-+0;Building+BSS-AI+%40+BSS-AI+org;Python+%7C+AutoHotkey+%7C+Bash)](https://github.com/iNotrez)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=BB7CFF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Developer;YOLO+%7C+Object+Detection+%7C+Automation;Amateur+Boxer+|+1+-+1;Building+BSS-AI+%40+BSS-AI+org;Python+%7C+AutoHotkey+%7C+Bash)](https://github.com/iNotrez)
 
 <br/>
 
